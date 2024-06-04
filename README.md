@@ -1,2 +1,14 @@
-# bot-dapatkan-keyword-and-sentiment
-Bot Discord ini adalah bot multifungsi yang dirancang untuk meningkatkan interaksi pengguna di server Discord
+# Discord Bot
+
+Bot Discord ini memiliki beberapa fungsi termasuk analisis teks dan respons pesan.
+
+## Fitur
+- Analisis kata kunci dari teks
+- Analisis sentimen teks
+- Respon pesan otomatis
+
+## Instalasi
+1. Clone repositori ini
+2. Instal pustaka yang diperlukan
+   ```bash
+   pip install -r requirements.txt
